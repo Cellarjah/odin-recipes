@@ -1,0 +1,14 @@
+body {
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 72px;
+    color: darkgreen;
+    margin: auto;
+    font-weight: bold;
+}
+ul {
+    color: red;
+    font-size: 30px;
+}
